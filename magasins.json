@@ -1,0 +1,186 @@
+[
+    {
+        "nom": "Gourmet Vélodrome",
+        "latitude": 33.590812,
+        "longitude": -7.646213,
+        "radius": 3.5,
+        "type": "Gourmet",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Gourmet Zears",
+        "latitude": 33.974476,
+        "longitude": -6.829226,
+        "radius": 20,
+        "type": "Gourmet",
+        "ville": "Rabat"
+    },
+    {
+        "nom": "Market Hassan 2",
+        "latitude": 33.715014,
+        "longitude": -7.344572,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Rabat"
+    },
+    {
+        "nom": "Market Darb",
+        "latitude": 33.514057,
+        "longitude": -7.818232,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Market Yaacoub Al Mansour",
+        "latitude": 33.573876,
+        "longitude": -7.644541,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Market Ain Sebaa",
+        "latitude": 33.601892,
+        "longitude": -7.526957,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Market Ville Verte",
+        "latitude": 33.4843,
+        "longitude": -7.60255,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Market Taddart",
+        "latitude": 33.554571,
+        "longitude": -7.626517,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Market Anfa",
+        "latitude": 33.57813,
+        "longitude": -7.67418,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Hyper Targa",
+        "latitude": 31.65087,
+        "longitude": -8.059124,
+        "radius": 15,
+        "type": "Hyper",
+        "ville": "Marrakech"
+    },
+    {
+        "nom": "Hyper Tetouan",
+        "latitude": 35.578369,
+        "longitude": -5.333914,
+        "radius": 30,
+        "type": "Hyper",
+        "ville": "Tetouan"
+    },
+    {
+        "nom": "Hyper Al Mazar",
+        "latitude": 31.592608,
+        "longitude": -7.987111,
+        "radius": 30,
+        "type": "Hyper",
+        "ville": "Marrakech"
+    },
+    {
+        "nom": "Hyper Temara",
+        "latitude": 33.908473,
+        "longitude": -6.939415,
+        "radius": 17,
+        "type": "Hyper",
+        "ville": "Temara"
+    },
+    {
+        "nom": "Hyper Salé",
+        "latitude": 34.058898,
+        "longitude": -6.802032,
+        "radius": 17,
+        "type": "Hyper",
+        "ville": "Salé"
+    },
+    {
+        "nom": "Hyper Dar Bouazza",
+        "latitude": 33.517068,
+        "longitude": -7.799557,
+        "radius": 27,
+        "type": "Hyper",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Hyper Tanger",
+        "latitude": 35.781464,
+        "longitude": -5.840993,
+        "radius": 15,
+        "type": "Hyper",
+        "ville": "Tanger"
+    },
+    {
+        "nom": "Hyper Agadir",
+        "latitude": 30.389275,
+        "longitude": -9.510128,
+        "radius": 20,
+        "type": "Hyper",
+        "ville": "Agadir"
+    },
+    {
+        "nom": "Hyper Sidi Maarouf",
+        "latitude": 33.536066,
+        "longitude": -7.642023,
+        "radius": 18,
+        "type": "Hyper",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Gourmet Carre Eden",
+        "latitude": 31.63505,
+        "longitude": -8.01114,
+        "radius": 3.5,
+        "type": "Gourmet",
+        "ville": "Marrakech"
+    },
+    {
+        "nom": "Market La Fontaine",
+        "latitude": 31.628407,
+        "longitude": -8.002586,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Marrakech"
+    },
+    {
+        "nom": "Market Mehdi Ben Barka",
+        "latitude": 31.949701,
+        "longitude": -6.868038,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Rabat"
+    },
+    {
+        "nom": "Market Wifak",
+        "latitude": 33.929658,
+        "longitude": -6.928876,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Rabat"
+    },
+    {
+        "nom": "Market Lissasfa",
+        "latitude": 33.537964,
+        "longitude": -7.68040917,
+        "radius": 3.5,
+        "type": "Market",
+        "ville": "Casablanca"
+    }
+]
