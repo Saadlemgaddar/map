@@ -38,9 +38,21 @@ with st.expander("➕ Ajouter un magasin"):
     type_mag = st.selectbox("Type", ["Gourmet", "Market", "Hyper"])
 
     if st.button("Ajouter le magasin"):
-        if nom and any(m["nom"] == nom for m in magasins_data):
-            st.warning("⚠️ Ce magasin existe déjà.")
-        elif nom:
+        # Vérifier si le magasin existe déjà
+        magasin_existant = next((m for m in magasins_data if m["nom"] == nom), None)
+        
+        if magasin_existant:
+            # Si le magasin existe déjà, on remplace les anciennes données par les nouvelles
+            magasin_existant.update({
+                "ville": ville,
+                "latitude": latitude,
+                "longitude": longitude,
+                "radius": radius,
+                "type": type_mag
+            })
+            st.success(f"✅ Le magasin **{nom}** a été mis à jour.")
+        else:
+            # Sinon, on ajoute le nouveau magasin
             nouveau = {
                 "nom": nom,
                 "ville": ville,
@@ -50,8 +62,10 @@ with st.expander("➕ Ajouter un magasin"):
                 "type": type_mag
             }
             magasins_data.append(nouveau)
-            sauvegarder_magasins(magasins_data)
             st.success(f"✅ Magasin **{nom}** ajouté avec succès.")
+        
+        # Sauvegarder les magasins après modification
+        sauvegarder_magasins(magasins_data)
 
 # Couleurs selon le type
 type_colors = {"Gourmet": "green", "Hyper": "blue", "Market": "red"}

@@ -182,5 +182,13 @@
         "radius": 3.5,
         "type": "Market",
         "ville": "Casablanca"
+    },
+    {
+        "nom": "Market La Vilette",
+        "ville": "Casablanca",
+        "latitude": 33.5899214,
+        "longitude": -7.581291917,
+        "radius": 3.5,
+        "type": "Market"
     }
 ]
