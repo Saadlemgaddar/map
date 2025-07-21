@@ -190,5 +190,117 @@
         "longitude": -7.581291917,
         "radius": 3.5,
         "type": "Market"
+    },
+    {
+        "nom": "Express Rachidi",
+        "latitude": 33.56670800077403,
+        "longitude": -7.624744567488893,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Market Label Shop",
+        "latitude": 34.021252063028676,
+        "longitude": -6.842276,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Express Romandie",
+        "latitude": 33.562272498397014,
+        "longitude": -7.668906646312273,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Market Oulfa",
+        "latitude": 34.01432907334994,
+        "longitude": -6.850745278168454,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Express Hassan Sghir",
+        "latitude": 33.59462465782696,
+        "longitude": -7.6104059741704715,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Express Bernoussi",
+        "latitude": 33.6182805,
+        "longitude": -7.4968149,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Express Anoual",
+        "latitude": 33.56920824742077,
+        "longitude": -7.615718428736616,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": " Express Taieb Nassiri",
+        "latitude": 33.55081812063045,
+        "longitude": -7.67263945767271,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Express Racine",
+        "latitude": 33.59126985913085,
+        "longitude": -7.638292728849959,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Express Gironde 3",
+        "latitude": 33.58498540845311,
+        "longitude": -7.600005022807484,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": " Express Val Fleury",
+        "latitude": 33.575938171000196,
+        "longitude": -7.6362202421685,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Express Rue d'Andromède",
+        "latitude": 33.56671135317031,
+        "longitude": -7.624751273011614,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Express Darbouazza",
+        "latitude": 33.52111890143031,
+        "longitude": -7.837396803070261,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Express Mly driss",
+        "latitude": 33.5720884,
+        "longitude": -7.6266439,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
     }
 ]
