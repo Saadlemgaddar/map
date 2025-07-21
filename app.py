@@ -35,7 +35,7 @@ with st.expander("➕ Ajouter un magasin"):
     latitude = st.number_input("Latitude", format="%.6f")
     longitude = st.number_input("Longitude", format="%.6f")
     radius = st.slider("Rayon (km)", 1.0, 30.0, 3.5, step=0.5)
-    type_mag = st.selectbox("Type", ["Gourmet", "Market", "Hyper"])
+    type_mag = st.selectbox("Type", ["Gourmet", "Market", "Hyper", "Express"])
 
     if st.button("Ajouter le magasin"):
         # Vérifier si le magasin existe déjà
@@ -68,7 +68,7 @@ with st.expander("➕ Ajouter un magasin"):
         sauvegarder_magasins(magasins_data)
 
 # Couleurs selon le type
-type_colors = {"Gourmet": "green", "Hyper": "blue", "Market": "red"}
+type_colors = {"Gourmet": "brown", "Hyper": "blue", "Market": "red", "Express": "green"}
 
 # Liste des villes
 villes_disponibles = sorted(list(set(m["ville"] for m in magasins_data if "ville" in m)))
