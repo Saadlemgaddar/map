@@ -201,8 +201,8 @@
     },
     {
         "nom": "Market Label Shop",
-        "latitude": 34.021252063028676,
-        "longitude": -6.842276,
+        "latitude": 33.572802,
+        "longitude": -7.6227629,
         "radius": 2,
         "type": "Express",
         "ville": "Casablanca"
@@ -217,8 +217,8 @@
     },
     {
         "nom": "Market Oulfa",
-        "latitude": 34.01432907334994,
-        "longitude": -6.850745278168454,
+        "latitude": 33.5564733,
+        "longitude": -7.6759104,
         "radius": 2,
         "type": "Express",
         "ville": "Casablanca"
