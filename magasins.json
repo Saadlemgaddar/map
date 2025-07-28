@@ -209,16 +209,16 @@
     },
     {
         "nom": "Express Romandie",
-        "latitude": 33.562272498397014,
-        "longitude": -7.668906646312273,
+        "latitude": 33.58556764033868,
+        "longitude": -7.6467247750050005,
         "radius": 2,
         "type": "Express",
         "ville": "Casablanca"
     },
     {
         "nom": "Market Oulfa",
-        "latitude": 33.5564733,
-        "longitude": -7.6759104,
+        "latitude": 33.5622547148125,
+        "longitude": -7.6688978166007775,
         "radius": 2,
         "type": "Express",
         "ville": "Casablanca"
@@ -299,6 +299,14 @@
         "nom": "Express Mly driss",
         "latitude": 33.5720884,
         "longitude": -7.6266439,
+        "radius": 2,
+        "type": "Express",
+        "ville": "Casablanca"
+    },
+    {
+        "nom": "Express Ahmad Charci",
+        "latitude": 33.59660708956981,
+        "longitude": -7.652895305504953,
         "radius": 2,
         "type": "Express",
         "ville": "Casablanca"
